@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **miracleheen99@gmail.com**
 
-- ⚡ Fun fact **I like salmon in the oven❤️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16744522/miracle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="miracle-" height="30" width="40" /></a>
