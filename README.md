@@ -1,4 +1,4 @@
-<h3 align="center">I'am just a future programmer💻</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=06F731&background=FFFFFF00&width=435&lines=Software+Developer%F0%9F%A4%A1)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miracleheen&label=Profile%20views&color=0e75b6&style=flat" alt="miracleheen" /> </p>
 
