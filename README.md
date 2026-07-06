@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&duration=3000\&pause=1000\&color=4299e1\&background=FFFFFF00\&width=435\&lines=Software+Developer)](https://git.io/typing-svg)
 
-#### Java Backend Developer passionate about distributed systems and clean software architecture.
+### Java Backend Developer passionate about distributed systems and clean software architecture.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,redis,postgres,mysql,docker,kubernetes,git,maven,idea,cpp&perline=6)](https://skillicons.dev)
 
